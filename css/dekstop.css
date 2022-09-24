@@ -1,0 +1,17 @@
+header h1{
+    color: orangered;
+    font-size: 45px;
+    
+    margin-top: 250px;
+    margin-left: 20px;
+    text-align: center;
+}
+.header-logo{
+    width: 40%;
+}
+.header-logo img{
+    height: 100%;
+}
+.header-title{
+    width: 65%;
+}
